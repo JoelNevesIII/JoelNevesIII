@@ -10,8 +10,6 @@
   <img src="https://img.icons8.com/fluency/50/000000/laravel.png"/>
   
   <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/>
- 
-  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
   
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
  </section>
