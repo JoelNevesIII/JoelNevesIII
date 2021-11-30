@@ -7,7 +7,6 @@
 </header>
 <section>
   <h3> Aprendendo no momento: </h3>
-  <img src="https://img.icons8.com/fluency/50/000000/laravel.png"/>
   
   <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/>
   
