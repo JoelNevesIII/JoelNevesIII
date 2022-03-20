@@ -14,5 +14,5 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   
  </section>
-  <script src="https://tryhackme.com/badge/987082"></script>
+ 
   
